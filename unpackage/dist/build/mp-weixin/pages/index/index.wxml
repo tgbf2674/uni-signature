@@ -1,0 +1,1 @@
+<view><button type="default" data-event-opts="{{[['tap',[['e0',['$event']]]]]}}" bindtap="__e">点击此处签名</button><signature vue-id="8dd740cc-1" showCanvas="{{showCanvas}}" data-event-opts="{{[['^closeCanvas',[['closeCanvas']]]]}}" bind:closeCanvas="__e" bind:__l="__l"></signature></view>
